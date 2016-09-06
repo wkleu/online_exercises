@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/contests/projecteuler/challenges/euler001
 number_of_test_cases = int(input())
 test_cases = []
 
